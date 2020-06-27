@@ -16,7 +16,7 @@ git clone http://github.com/Imran-Khondokar/Imran
 
 cd Imran
 
-python2 Imran.py
+python2 Imran5.py
 
 
 User:Khondokar
